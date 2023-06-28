@@ -1,0 +1,20 @@
+
+
+.jumbotron{
+    background-color: #8aead5;
+    padding-top: 10rem;
+
+
+}
+
+#myAlbums{
+    background-color: #00e1ff;
+}
+.album{
+    /* padding: 30px; */
+    color: rgb(0, 0, 0);
+}
+
+section{
+    padding-top: 10rem;
+}
